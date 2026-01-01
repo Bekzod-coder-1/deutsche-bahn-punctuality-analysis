@@ -22,10 +22,10 @@ Dieses Projekt untersucht die Pünktlichkeitsdaten der Deutschen Bahn. Ziel ist 
 3. **Process:** Datenreinigung und Verknüpfung (siehe `scripts/` Ordner).
 4. **Analyze:** (Aktueller Schritt) Statistische Auswertung in SQL.
 
-##Beobachtung während der Analyse:
+Beobachtung während der Analyse:
 
 „Während der Verarbeitungsphase ergab eine eingehende Prüfung der Rohdaten, dass die Spalten scheduled_time (geplante Zeit) und expected_time (erwartete Zeit) in über 99 % der Datensätze identisch waren. Dies deutet darauf hin, dass die 'erwarteten' Werte in diesem spezifischen Datensatz nicht mit Echtzeit-Verspätungsinformationen aktualisiert wurden.“
 
-##Ergriffene Maßnahmen:
+Ergriffene Maßnahmen:
 
 „Anstatt das Projekt abzubrechen, habe ich die Analyse neu ausgerichtet (Pivot). Der Fokus liegt nun auf der Bahnhofsdichte und der geografischen Verteilung der Infrastruktur. Dies demonstriert meine Fähigkeit, mich an Datenbeschränkungen anzupassen und dennoch wertvolle Erkenntnisse aus den vorhandenen Informationen zu gewinnen.“
